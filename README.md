@@ -17,10 +17,11 @@ After that we can run the classifiers with code similar to "python NLP/classifie
 
 Sequence thens hould be to run vectorizers first and then classifiers
 
-# the prediction error in txt format is in dir "NLP/prediction_error"
+## Notes
+The prediction error in txt format is in dir "NLP/prediction_error"
 
-# the visual.py in the outer dir is to visualize the data.
+The visual.py in the outer dir is to visualize the data.
 
-# For saving space, only a small amount of data is included in this package
+For saving space, only a small amount of data is included in this package
 
 
